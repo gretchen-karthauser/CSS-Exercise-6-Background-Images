@@ -1,0 +1,39 @@
+html {
+    background-color:antiquewhite;
+}
+
+body {
+    margin: 0;
+}
+
+h1, h2, ul, p {
+    margin: 0;
+    padding: 10px 10px;
+}
+
+ul {
+    padding: 10px 10px 10px 50px;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(images/3-fruit.jpg);
+    height: 300px;
+    background-size: cover;
+}
+
+.site-id {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    border-top-width: 6px;
+    border-top-color: rgb(131, 27, 27);
+    border-top-style: solid;
+}
+
+.main {
+    background-color: white;
+}

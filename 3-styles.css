@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+h1, h2, ul, p {
+    margin: 0;
+    padding: 10px 10px;
+}
+
+ul {
+    padding: 10px 10px 10px 50px;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: rgb(222, 215, 206);
+    background-image: url(images/4-uwm-hero.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 415px;
+}
+
+.footer {
+    background-color: rgb(255, 213, 0);
+}

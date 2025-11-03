@@ -1,0 +1,47 @@
+html {
+    background-image: url(images/2-square-tile.gif);
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+body {
+    margin: 0;
+}
+
+h1, h2, ul, p {
+    margin: 0;
+    padding: 10px 10px;
+}
+
+ul {
+    padding: 10px 10px 10px 50px;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: rgb(254,203,67);
+
+    border-left-color: rgb(247,148,51);
+    border-left-width: 6px;
+    border-left-style: solid;
+
+    border-right-color: rgb(247,148,51);
+    border-right-width: 6px;
+    border-right-style: solid;
+}
+
+.main {
+    background-color: rgb(254,203,67); 
+
+    border-left-color: rgb(247,148,51);
+    border-left-width: 6px;
+    border-left-style: solid;
+
+    border-right-color: rgb(247,148,51);
+    border-right-width: 6px;
+    border-right-style: solid;   
+}
